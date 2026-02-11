@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    cout <<"Atharv joshi!";
+    return 0;
+
+}
+
+// This is a simple C++ program that prints "Atharv joshi!" to the console.
