@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+
+int x= 60; int y = 30; //initialization 
+
+cout <<x+y<<endl; 
+cout <<x-y<<endl; 
+cout <<x*y<<endl; 
+cout <<x/y<<endl;
+
+
+
+}
